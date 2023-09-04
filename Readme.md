@@ -16,6 +16,14 @@ In this example the WinFormd Data Grid control is bound to an [XPInstantFeedback
 * [Customers.cs](./CS/DXServermode2/XPO%20Data/Customers.cs) (VB: [Customers.vb](./CS/DXServermode2/XPO%20Data/Customers.vb))
 
 
+## Documentation
+
+* [Edit Data. Create Cell Editors. Validate User Input](https://docs.devexpress.com/WindowsForms/753/controls-and-libraries/data-grid/data-editing-and-validation/modify-and-validate-cell-values)
+* [Data Binding Overview - WinForms Data Grid](https://docs.devexpress.com/WindowsForms/634/controls-and-libraries/data-grid/data-binding)
+
+
 ## See Also
 
 * [WinForms Data Grid - Implement CRUD operations (LinqServerModeSource)](https://github.com/DevExpress-Examples/winforms-grid-implement-crud-operations-linqservermodesource)
+* [DevExpress WinForms Cheat Sheet - Supported Data Access Technologies and Data Sources](https://go.devexpress.com/CheatSheets_WinForms_Examples_T904237.aspx)
+* [DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
