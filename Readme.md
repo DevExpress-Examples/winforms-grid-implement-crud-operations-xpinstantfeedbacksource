@@ -13,7 +13,7 @@ In this example the WinFormd Data Grid control is bound to an [XPInstantFeedback
 
 * [Form1.cs](./CS/DXServermode2/Form1.cs) (VB: [Form1.vb](./VB/DXServermode2/Form1.vb))
 * [EditForm.cs](./CS/DXServermode2/EditForm.cs) (VB: [EditForm.vb](./VB/DXServermode2/EditForm.vb))
-* [Customers.cs](./CS/DXServermode2/XPO%20Data/Customers.cs) (VB: [Customers.vb](./CS/DXServermode2/XPO%20Data/Customers.vb))
+* [Customers.cs](./CS/DXServermode2/XPO%20Data/Customers.cs) (VB: [Customers.vb](./VB/DXServermode2/XPO%20Data/Customers.vb))
 
 
 ## Documentation
