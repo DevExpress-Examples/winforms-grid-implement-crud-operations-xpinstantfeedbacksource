@@ -6,7 +6,7 @@
 
 # WinForms Data Grid - Implement CRUD operations (XPInstantFeedbackSource)
 
-In this example the WinFormd Data Grid control is bound to an [XPInstantFeedbackSource](https://docs.devexpress.com/XPO/DevExpress.Xpo.XPInstantFeedbackSource) to display data from the standard SQL Northwind database. The example demonstrates how to create a custom edit form to allow users to create, update, and delete data rows/records.
+In this example the WinForms Data Grid control is bound to an [XPInstantFeedbackSource](https://docs.devexpress.com/XPO/DevExpress.Xpo.XPInstantFeedbackSource) to display data from the standard SQL Northwind database. The example demonstrates how to create a custom edit form to allow users to create, update, and delete data rows/records.
 
 
 ## Files to Review
